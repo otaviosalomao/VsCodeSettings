@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": -1,
+    "editor.fontSize": 13,
+    "editor.tabSize": 2,
+    "extensions.ignoreRecommendations": true,
+    "typescript.check.tscVersion": false,
+    "editor.detectIndentation" : false,
+    "typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false
+}
